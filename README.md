@@ -49,17 +49,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
+🥇 **1st Place** @ Hack Hustle 2.0  
+🏅 **Top 30 Finalist** @ CREONIX-25 National Hackathon  
+🥈 **2nd Prize** @ ML Royale — DRESTEIN’25  
+🚀 **Finalist** @ CryptoSolve FinTech App Expo — SRM  
+💡 **Participant** @ Smart India Hackathon (SIH)
 
 ## 🤝 Connect With Me
 
