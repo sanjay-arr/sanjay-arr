@@ -15,7 +15,7 @@
 - 🧠 Interested in integrating **AI and Data Science into real-world applications**
 - 🛠️ Passionate about **problem-solving and building impactful digital products**
 - 🏆 Active **hackathon participant** with experience in collaborative development
-- 🌱 Currently strengthening my skills in **backend development and system design**
+- 🌱 Currently strengthening my skills in **frontend & backend development and system design**
 
 ## 🛠️ Tech Stack
 
