@@ -10,13 +10,12 @@
 
 ## 🚀 About Me
 
-💻 **Full Stack Developer** focused on building scalable, responsive, and user-centric web applications.
-⚙️ Building end-to-end solutions with **React, Spring Boot, REST APIs, and modern databases**.
-🧠 Exploring the intersection of **Full Stack Development, Artificial Intelligence, and Data Science** to create intelligent digital products.
-🛠️ Passionate about transforming **real-world problems into practical, technology-driven solutions**.
-🏆 Active in **hackathons and collaborative development**, with experience building solutions across EdTech, FinTech, AI, and productivity platforms.
-🌱 Continuously strengthening my skills in **system design, backend development, and scalable application architecture**.
-🤝 Open to **internships, collaborative projects, and opportunities to build impactful products**.
+- 💻 Full Stack Developer building **scalable and user-centric web applications**
+- ⚙️ Working with **React, Spring Boot, REST APIs, and modern databases**
+- 🧠 Interested in integrating **AI and Data Science into real-world applications**
+- 🛠️ Passionate about **problem-solving and building impactful digital products**
+- 🏆 Active **hackathon participant** with experience in collaborative development
+- 🌱 Currently strengthening my skills in **backend development and system design**
 
 ## 🛠️ Tech Stack
 
