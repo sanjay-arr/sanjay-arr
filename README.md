@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm G Sanjay</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer" />
-</p>
----
+<h1 align="center">Hi 👋, I'm Sanjay G</h1>
 
+<h3 align="center">
+  Full Stack Developer | AI & Data Science Student
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI-Powered+Solutions;Turning+Ideas+Into+Real-World+Products" alt="Typing SVG" />
+</p>
 ## 🚀 About Me
 
 - 💻 I'm a Full Stack Developer passionate about building responsive and user-friendly web applications
