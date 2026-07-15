@@ -19,37 +19,37 @@
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c" />
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring" />
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
----
+</td>
+</tr>
+</table>
 
 ## 🏆 Achievements
 
