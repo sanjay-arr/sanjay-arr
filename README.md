@@ -60,6 +60,6 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> |
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/gsanjay07/">LinkedIn</a> |
+  <a href="sanjay77665522@gmail.com">Email</a>
 </p>
