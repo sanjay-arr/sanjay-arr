@@ -7,16 +7,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+AI-Powered+Solutions;Turning+Ideas+Into+Real-World+Products" alt="Typing SVG" />
 </p>
+
 ## 🚀 About Me
 
-- 💻 I'm a Full Stack Developer passionate about building responsive and user-friendly web applications
-- 🌱 Currently learning advanced Full Stack Development
-- 🤖 Interested in AI, Machine Learning and intelligent web applications
-- 🛠️ I enjoy solving real-world problems through technology
-- 🚀 Open to internships, hackathons and collaborative projects
-- 📫 Reach me through LinkedIn or Email
-
----
+💻 **Full Stack Developer** focused on building scalable, responsive, and user-centric web applications.
+⚙️ Building end-to-end solutions with **React, Spring Boot, REST APIs, and modern databases**.
+🧠 Exploring the intersection of **Full Stack Development, Artificial Intelligence, and Data Science** to create intelligent digital products.
+🛠️ Passionate about transforming **real-world problems into practical, technology-driven solutions**.
+🏆 Active in **hackathons and collaborative development**, with experience building solutions across EdTech, FinTech, AI, and productivity platforms.
+🌱 Continuously strengthening my skills in **system design, backend development, and scalable application architecture**.
+🤝 Open to **internships, collaborative projects, and opportunities to build impactful products**.
 
 ## 🛠️ Tech Stack
 
